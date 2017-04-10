@@ -3,7 +3,7 @@
 
 ```
 
-	git clone git@github.com:chongbenben/backgroundmanagement.git
+	git clone git@github.com:qiyian/BMS.git
 ```
 
  mysql数据库建立数据库，数据库名test，表名：good 结构如下
